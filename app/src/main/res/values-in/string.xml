@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission2</string>
+    <string name="now_playing">Sedang Diputar</string>
+    <string name="search_movie">Cari Film</string>
+    <string name="coming_soon">Akan Tayang</string>
+    <string name="overview">Judul :</string>
+    <string name="search">Cari</string>
+</resources>
